@@ -29,6 +29,10 @@ O resultado final foi  tabela base_clientes_cruzada, com as colunas : codigo do 
 
  Após a empresa realizar a atualização e padronização das atividades de seus clientes a partir do CNAE da receita,  foi possível atualizar todas por meio de comando update no banco de dados.
 
+ Uma vez com o banco de dados atualizado, conforme atividades adequadas aos CNAES da receita os dados estão prontos para análises específicas, como curva ABC  de atividades x valor de venda e diversas outras possibilidades de análises que envolvam segmentar clientes por atividades.
+
+ 
+
   
 
   
